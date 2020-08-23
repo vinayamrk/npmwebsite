@@ -130,7 +130,7 @@ span {
 
 .bottom {
     position: absolute;
-    bottom: 8px;
+    bottom: 0;
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 1.5em;
@@ -192,7 +192,7 @@ span {
 
 .pa {
     text-align: center;
-    margin: 30%;
+    margin: 0 30%;
 }
 
 .op {
@@ -212,7 +212,7 @@ span {
 #dt {
     font-size: 5em;
     text-align: center;
-    margin: 30%;
+    margin: 5px 30%;
 }
 
 .company {
